@@ -36,6 +36,39 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Potato Salad",
+      "ingredients": [
+        "potato"
+      ],
+      "method": "Boil Potato",
+      "cookingTime": "30 mins",
+      "id": "NaTh3DM"
+    },
+    {
+      "title": "통닭",
+      "ingredients": [
+        "닭",
+        "양념"
+      ],
+      "method": "에어프라이기에서 생닭 굽기",
+      "cookingTime": "40 mins",
+      "id": "PeCLA4V"
+    },
+    {
+      "title": "sgvgv",
+      "ingredients": [],
+      "method": "xsgvdsxgv",
+      "cookingTime": "1 mins",
+      "id": "sb5O6Xt"
+    },
+    {
+      "title": "d",
+      "ingredients": [],
+      "method": "d",
+      "cookingTime": "2 mins",
+      "id": "jT7XHx5"
     }
   ]
 }
