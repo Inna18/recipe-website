@@ -1,7 +1,7 @@
 import {useEffect, useRef, useState} from "react";
 import "./Create.css"
 import {useFetch} from "../../hooks/useFetch";
-import {Link, useHistory} from "react-router-dom";
+import {useHistory} from "react-router-dom";
 
 export default function Create() {
 
