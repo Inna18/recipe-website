@@ -1,6 +1,6 @@
 import {useLocation} from "react-router-dom";
 import {useFetch} from "../../hooks/useFetch";
-import RecipeList from "../../component/recipeList/RecipeList";
+import RecipeList from "../../components/recipeList/RecipeList";
 
 export default function Search() {
 
