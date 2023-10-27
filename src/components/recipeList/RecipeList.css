@@ -9,8 +9,8 @@
     background: #fff;
     color: #333;
     padding: 20px;
-    border-radius: 4px;
-    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
     transition: all 0.3s ease;
     position: relative;
 }
@@ -42,6 +42,12 @@
     padding: 8px;
     border-radius: 4px;
     margin: 20px auto 0;
-
 }
+.recipe-list .card.dark { background: #999999; }
+.recipe-list .card.dark h3 { color: #d4d4d4; }
+.recipe-list .card.dark p,
+.recipe-list .card.dark div { color: #fff; }
+.recipe-list .card.dark a { background: #555555; color: #d4d4d4 }
+
+
 

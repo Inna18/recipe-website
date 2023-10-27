@@ -1,13 +1,21 @@
 .theme-selector {
-    width: 100%;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    width: 1200px;
+    margin: 20px auto;
     display: flex;
-    justify-content: end;
+    justify-content: space-between;
+    align-items: center;
+}
+.theme-btns {
+    display: flex;
 }
 .theme-btn {
     width: 40px;
     height: 40px;
     margin: 5px;
     border-radius: 50%;
+}
+.theme-mode {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
 }
