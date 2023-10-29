@@ -27,3 +27,14 @@
     text-align: left;
     line-height: 1.5em;
 }
+.recipe.dark {
+    background: #999;
+    color: #fff;
+}
+.recipe.dark .page-title {
+    color: #d4d4d4;
+}
+.update-btn {
+    text-decoration: none;
+    cursor: pointer;
+}

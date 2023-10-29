@@ -1,5 +1,5 @@
 .theme-selector {
-    width: 1200px;
+    max-width: 1200px;
     margin: 20px auto;
     display: flex;
     justify-content: space-between;

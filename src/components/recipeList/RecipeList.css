@@ -43,6 +43,12 @@
     border-radius: 4px;
     margin: 20px auto 0;
 }
+.delete-icon {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
 .recipe-list .card.dark { background: #999999; }
 .recipe-list .card.dark h3 { color: #d4d4d4; }
 .recipe-list .card.dark p,

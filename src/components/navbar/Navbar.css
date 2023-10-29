@@ -26,3 +26,7 @@
     background: #fff;
     color: #333;
 }
+img {
+    width: 40px;
+    filter: invert(100%);
+}
